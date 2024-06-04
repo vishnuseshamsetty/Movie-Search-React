@@ -1,0 +1,15 @@
+.container{
+    width: 80%;
+    margin: 10px auto;
+    
+  }
+  .field{
+    text-align: center;
+    margin: 20px;
+  }
+  .poster{
+    height: 300px;
+  }
+  .status{
+    text-align: center
+  }
